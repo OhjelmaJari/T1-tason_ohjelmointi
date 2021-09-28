@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\bin\Debug\netcoreapp3.1\CRUD-Projekti2.exe
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\bin\Debug\netcoreapp3.1\CRUD-Projekti2.deps.json
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\bin\Debug\netcoreapp3.1\CRUD-Projekti2.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\bin\Debug\netcoreapp3.1\CRUD-Projekti2.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\bin\Debug\netcoreapp3.1\CRUD-Projekti2.dll
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\bin\Debug\netcoreapp3.1\CRUD-Projekti2.pdb
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD_Projekti2.Form1.resources
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.dll
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.pdb
+F:\T1-Ohjelmointi\Harjoitus_1-4\CRUD-Projekti2\CRUD-Projekti2\obj\Debug\netcoreapp3.1\CRUD-Projekti2.genruntimeconfig.cache
