@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\bin\Debug\netcoreapp3.1\IänLaskeminen.exe
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\bin\Debug\netcoreapp3.1\IänLaskeminen.deps.json
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\bin\Debug\netcoreapp3.1\IänLaskeminen.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\bin\Debug\netcoreapp3.1\IänLaskeminen.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\bin\Debug\netcoreapp3.1\IänLaskeminen.dll
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\bin\Debug\netcoreapp3.1\IänLaskeminen.pdb
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.Form1.resources
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.dll
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.pdb
+F:\T1-Ohjelmointi\Harjoitus_1-4\IkaLaskuri\IänLaskeminen\obj\Debug\netcoreapp3.1\IänLaskeminen.genruntimeconfig.cache
