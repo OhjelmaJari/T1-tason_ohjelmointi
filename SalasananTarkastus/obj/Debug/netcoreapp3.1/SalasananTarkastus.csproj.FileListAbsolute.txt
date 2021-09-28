@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.SalasanaForm.resources
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\bin\Debug\netcoreapp3.1\SalasananTarkastus.exe
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\bin\Debug\netcoreapp3.1\SalasananTarkastus.deps.json
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\bin\Debug\netcoreapp3.1\SalasananTarkastus.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\bin\Debug\netcoreapp3.1\SalasananTarkastus.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\bin\Debug\netcoreapp3.1\SalasananTarkastus.dll
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\bin\Debug\netcoreapp3.1\SalasananTarkastus.pdb
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.dll
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.pdb
+F:\T1-Ohjelmointi\Harjoius 5-6\SalasananTarkastus\SalasananTarkastus\obj\Debug\netcoreapp3.1\SalasananTarkastus.genruntimeconfig.cache
