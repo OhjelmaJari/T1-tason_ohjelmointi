@@ -1,0 +1,17 @@
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\bin\Debug\netcoreapp3.1\RoomalaisetNumerot.exe
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\bin\Debug\netcoreapp3.1\RoomalaisetNumerot.deps.json
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\bin\Debug\netcoreapp3.1\RoomalaisetNumerot.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\bin\Debug\netcoreapp3.1\RoomalaisetNumerot.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\bin\Debug\netcoreapp3.1\RoomalaisetNumerot.dll
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\bin\Debug\netcoreapp3.1\RoomalaisetNumerot.pdb
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.RoomalaisiksiForm.resources
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.Properties.Resources.resources
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.dll
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.pdb
+F:\T1-Ohjelmointi\Harjoitus 7-8\RoomaNrot\RoomalaisetNumerot\obj\Debug\netcoreapp3.1\RoomalaisetNumerot.genruntimeconfig.cache

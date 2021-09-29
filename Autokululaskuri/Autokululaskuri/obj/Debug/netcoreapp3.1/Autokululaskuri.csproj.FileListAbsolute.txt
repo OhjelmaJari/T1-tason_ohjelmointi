@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\bin\Debug\netcoreapp3.1\Autokululaskuri.exe
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\bin\Debug\netcoreapp3.1\Autokululaskuri.deps.json
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\bin\Debug\netcoreapp3.1\Autokululaskuri.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\bin\Debug\netcoreapp3.1\Autokululaskuri.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\bin\Debug\netcoreapp3.1\Autokululaskuri.dll
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\bin\Debug\netcoreapp3.1\Autokululaskuri.pdb
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.KustannusForm.resources
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.dll
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.pdb
+F:\T1-Ohjelmointi\Harjoitus 7-8\Autokululaskuri\Autokululaskuri\obj\Debug\netcoreapp3.1\Autokululaskuri.genruntimeconfig.cache
