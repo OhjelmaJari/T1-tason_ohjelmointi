@@ -1,0 +1,17 @@
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\bin\Debug\netcoreapp3.1\Nopanheitto.exe
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\bin\Debug\netcoreapp3.1\Nopanheitto.deps.json
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\bin\Debug\netcoreapp3.1\Nopanheitto.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\bin\Debug\netcoreapp3.1\Nopanheitto.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\bin\Debug\netcoreapp3.1\Nopanheitto.dll
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\bin\Debug\netcoreapp3.1\Nopanheitto.pdb
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.NopanheittoForm.resources
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.Properties.Resources.resources
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.dll
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.pdb
+F:\T1-Ohjelmointi\Harjoitus 11-12\Nopanheitto\obj\Debug\netcoreapp3.1\Nopanheitto.genruntimeconfig.cache
