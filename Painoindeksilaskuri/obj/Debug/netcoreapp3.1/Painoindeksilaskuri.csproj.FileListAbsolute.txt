@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\bin\Debug\netcoreapp3.1\Painoindeksilaskuri.exe
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\bin\Debug\netcoreapp3.1\Painoindeksilaskuri.deps.json
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\bin\Debug\netcoreapp3.1\Painoindeksilaskuri.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\bin\Debug\netcoreapp3.1\Painoindeksilaskuri.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\bin\Debug\netcoreapp3.1\Painoindeksilaskuri.dll
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\bin\Debug\netcoreapp3.1\Painoindeksilaskuri.pdb
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.PainoindeksilaskuriForm.resources
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.dll
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.pdb
+F:\T1-Ohjelmointi\Harjoitus 9-10\Painoindeksilaskuri\obj\Debug\netcoreapp3.1\Painoindeksilaskuri.genruntimeconfig.cache

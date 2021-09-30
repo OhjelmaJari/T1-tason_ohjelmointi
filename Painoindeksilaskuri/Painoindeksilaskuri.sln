@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Painoindeksilaskuri", "Painoindeksilaskuri.csproj", "{45E267C8-E1EA-4CE3-8C3E-4E4DFF3FDE76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E267C8-E1EA-4CE3-8C3E-4E4DFF3FDE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E267C8-E1EA-4CE3-8C3E-4E4DFF3FDE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E267C8-E1EA-4CE3-8C3E-4E4DFF3FDE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E267C8-E1EA-4CE3-8C3E-4E4DFF3FDE76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9504A76E-91AB-488F-BC56-1C130B72C907}
+	EndGlobalSection
+EndGlobal
