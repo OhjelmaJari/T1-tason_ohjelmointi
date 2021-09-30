@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.AstemuuunninForm.resources
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.exe
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.deps.json
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.dll
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.pdb
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.dll
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.pdb
+F:\T1-Ohjelmointi\Harjoitus 9-10\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.genruntimeconfig.cache
