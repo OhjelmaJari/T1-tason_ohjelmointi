@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\bin\Debug\netcoreapp3.1\Sekuntikello.exe
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\bin\Debug\netcoreapp3.1\Sekuntikello.deps.json
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\bin\Debug\netcoreapp3.1\Sekuntikello.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\bin\Debug\netcoreapp3.1\Sekuntikello.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\bin\Debug\netcoreapp3.1\Sekuntikello.dll
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\bin\Debug\netcoreapp3.1\Sekuntikello.pdb
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.SekuntikelloForm.resources
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.dll
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.pdb
+F:\T1-Ohjelmointi\Harjoitus 15-16\Sekuntikello\obj\Debug\netcoreapp3.1\Sekuntikello.genruntimeconfig.cache
