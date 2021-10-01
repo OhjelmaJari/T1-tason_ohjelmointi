@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\bin\Debug\netcoreapp3.1\PVKirja.exe
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\bin\Debug\netcoreapp3.1\PVKirja.deps.json
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\bin\Debug\netcoreapp3.1\PVKirja.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\bin\Debug\netcoreapp3.1\PVKirja.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\bin\Debug\netcoreapp3.1\PVKirja.dll
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\bin\Debug\netcoreapp3.1\PVKirja.pdb
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.PVKirjaForm.resources
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.dll
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.pdb
+F:\T1-Ohjelmointi\Harjoitus 13-14\PVKirja\obj\Debug\netcoreapp3.1\PVKirja.genruntimeconfig.cache

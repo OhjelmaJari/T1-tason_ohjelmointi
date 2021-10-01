@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.SuositutForm.resources
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\bin\Debug\netcoreapp3.1\OnkoSuosittuNimi.exe
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\bin\Debug\netcoreapp3.1\OnkoSuosittuNimi.deps.json
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\bin\Debug\netcoreapp3.1\OnkoSuosittuNimi.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\bin\Debug\netcoreapp3.1\OnkoSuosittuNimi.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\bin\Debug\netcoreapp3.1\OnkoSuosittuNimi.dll
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\bin\Debug\netcoreapp3.1\OnkoSuosittuNimi.pdb
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.dll
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.pdb
+F:\T1-Ohjelmointi\Harjoitus 13-14\OnkoSuosittuNimi\obj\Debug\netcoreapp3.1\OnkoSuosittuNimi.genruntimeconfig.cache
