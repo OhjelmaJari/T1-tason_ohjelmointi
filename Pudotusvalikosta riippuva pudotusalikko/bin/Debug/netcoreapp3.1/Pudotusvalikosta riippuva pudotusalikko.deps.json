@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pudotusvalikosta riippuva pudotusalikko/1.0.0": {
+        "runtime": {
+          "Pudotusvalikosta riippuva pudotusalikko.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pudotusvalikosta riippuva pudotusalikko/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

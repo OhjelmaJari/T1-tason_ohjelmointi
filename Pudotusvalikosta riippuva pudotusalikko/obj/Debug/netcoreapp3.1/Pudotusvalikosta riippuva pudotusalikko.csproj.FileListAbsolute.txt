@@ -1,0 +1,16 @@
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.csproj.AssemblyReference.cache
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta_riippuva_pudotusalikko.AvainhenkilotForm.resources
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.csproj.GenerateResource.cache
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.GeneratedMSBuildEditorConfig.editorconfig
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.AssemblyInfoInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.AssemblyInfo.cs
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.csproj.CoreCompileInputs.cache
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\bin\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.exe
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\bin\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.deps.json
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\bin\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.runtimeconfig.json
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\bin\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.runtimeconfig.dev.json
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\bin\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.dll
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\bin\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.pdb
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.dll
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.pdb
+F:\T1-Ohjelmointi\Harjoitus 17-18\Pudotusvalikosta riippuva pudotusalikko\obj\Debug\netcoreapp3.1\Pudotusvalikosta riippuva pudotusalikko.genruntimeconfig.cache
