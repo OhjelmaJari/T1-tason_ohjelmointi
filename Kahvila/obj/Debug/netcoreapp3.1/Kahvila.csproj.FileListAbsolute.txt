@@ -1,0 +1,17 @@
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.csproj.AssemblyReference.cache
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.RuokalistaForm.resources
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.Properties.Resources.resources
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.csproj.GenerateResource.cache
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.GeneratedMSBuildEditorConfig.editorconfig
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.AssemblyInfoInputs.cache
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.AssemblyInfo.cs
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.csproj.CoreCompileInputs.cache
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.exe
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.deps.json
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.runtimeconfig.json
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.runtimeconfig.dev.json
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.dll
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.pdb
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.dll
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.pdb
+E:\T1-Ohjelmointi\Harjoitus 19\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.genruntimeconfig.cache

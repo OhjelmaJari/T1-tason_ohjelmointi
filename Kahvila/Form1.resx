@@ -1,0 +1,110 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGPC/xhBQAABLNJREFUWEet
+        2AXIpFUUgOEVxcTCxloLuxAVCwMTLCxEVFRQ1+5AVFRU7F5dOzCxsEBBBWMtFDEQ1xZs3V3FzvF9Z+f8
+        3L1zJv//wAP3nntn5ptvbn0zrtFojMYSuB4fYTp+w0/4HA9iLWSv61ua7MOseALGN7gBh2A3HIDL8AGM
+        9+AXyd6npzTZg3fF+BUbI+sTlsMUGLsi69NVmuxiVRgPIGvv5EwYA19kmuxgFvwDx1bW3ssZMMYja0+l
+        yQ5uxvdVblAv4s0q11WaTCwM796eRW4Yq8HYFFl7mzSZOAnTqtyw3sHtVa6jNJl4riVrG9Q5+LDKdZQm
+        Ey7EE6tcvzbB1bgQZ+NJOFxuxIlYBdnrmtJkwp3h3CoX1sMCVa50JAwXbu/c07gDb+FbGO5Ce6Ht9W2J
+        Dj7G5VVOG8AF2wW5buvXsrgfhjN8Noy0lx27+QvnVzndhfer3LAWhHfyb4z8InWnzNvwDi4Kf4bZEW0/
+        4uiiPhac5d9FvW6sPQ8j6sZrsLwHHOzztupj6Wc4ibpeYJxWvHORWwj/4XE8g3tRvmas7ARjfNao22Cs
+        iLptDnwGYwvU7eEIbFjlBvEVJmYN18BYA2V+f0xAzLLX4eSZp1Uvud4Za6Ju65dr55Q66SpvuLiW+Uvx
+        AvaBL9wW5t1djMUQfd0WjW0QuWHsi6ll4igY8eGemuMndsV3XFj2dHwoTm/V74RheccZxcbusD4aW2F6
+        VA6C4QdEbmm8jMVb9YvxA7yDe+NhHAvbLkLEloj3GI3tMM2Ca9ufMJpTu+Bduwp341QcCFf7SdgF92Ay
+        7HsJDE/d5XsMy/X1awu/wCXD8u94t1UOi2B+rIDrcBi8qyfDsXkKnsJcOBhGuq/C86A7z35FrpPHMNlC
+        PAR5B6z7MzrFy87yRPMonJmOVz8s2nySW7tVPg6GFxvtWyOWpi+wOqIt45f9FxMi4ZHHuBXWfVT0Gdc1
+        L/p4qr4Sb+AmeEjodPD0gg3vsA9YxkvoerQqXIGplsvkkjC8S9YdW4abePTZARfA59947t0c0V7aGcaX
+        mOmE0oOLv+EYb9vq5oPxCqw/1Kw1Gksh+vjzOAS8I35T79J5iPbSSjCyo1pmfRi+bzNXd5Df1lPKp636
+        tTDqncUZ73hyN3G8OMsdBrZ5PvTfBdfUZWB4ki5fX3MZM1w1RvJlh5qnaM9nlmPrqv9JcJnxeOSS4Lro
+        bD4BXvyzOBz2cxjc0irPCXee5eGCfh8i2mb/TJWE+61h2f9ejNhRgruMF/MqjE+wMso+IU5I/kJ/wOOa
+        q4PvkfXveYHyGcKw7BnQcCeJdoeEu4uPpY4ddxUv0kkSfeSXMJwE68Jlqjz8ptJkIn4Gy5vNKDaPU9Hu
+        TPe04zLl2PNRwDse7Y/AKA8VfUmTHTh4DT8kZqdjs+zjbD4Nzkbvkrk4Ww70n0xIk114AYanHLc7wztW
+        9nGpmrtVdnkx1kHZp29psodjYMT/K4aHibpfnC03Qt3WtzTZBw+ThjuKdaNc5443QWyPyA0lTfYpDqc+
+        Blg33KNjpo/FoXVUF6iY0WfBuruP4Yyu+w4lTQ7IY5bhn5P+wekYzfoNJU0OwW3L6HRoGFJj3P/jw8t8
+        nFB3bQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="KylmatLB.Text" xml:space="preserve">
+    <value>- Vesi                                0,20 €
+- Porevesi                        0,50 €
+- Virvoitusjuomat           2,00 €
+- Energiajuomat             3,00 €
+- Tripit                              1,50 €</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>- Marjapiirakka           2,00 €
+- Omar                       2,50 €
+- Giffler Kaneli             2,50 €
+- Giffler Vanilja            2,50 €
+- Giffler Omena           2,50 €
+- Giffler Manteli           2,50 €</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>- Jim, Da-Capo, Pätkis, Ahaa     0,70 €
+- Suffeli                                   1,00 €
+- Kismet                                  1,50 €
+- Susu, Fazerina, Fami, Geisha   0,70 €
+- Pienet karkkipussit                 2,50 €
+- Isot karkkipussit                     4,00 €</value>
+  </data>
+</root>
