@@ -1,0 +1,18 @@
+<u><b>Käyttöönotto</b></u>
+Kirjoita tiedostoon PHP/aB.php palvelimen nimi, käyttäjätunnus ja salasana.
+Tämän jälkeen voit käyttää lottogeneraattorin tietokantaa.
+Tietokannan käsittely (tiedostojen ja esimerkkien luonti ja tiedostojen poisto)
+tapahtuu sivulla hallinta.php.
+
+<u><b>Uuden rivin luonti</b></u>
+
+Uuden rivin luomiseksi valitse ensin arvottavien numeroiden määrä.
+
+Numeron on oltava väliltä 7 - 18, joista numero 17 ei ole käytettävissä.
+
+Sivu ilmoittaa virheellisestä valinnasta.
+
+Ilmoitus tulee myös valinnan seurauksena arvonnassa olevien rivien määrästä.
+
+Lopuksi, klikkaa painiketta "Arvo numerot". Saat tulokseksi sarjan numeroita,
+joita voit kopioida varsinaiseen Veikkauksen lottolomakkeeseen.
