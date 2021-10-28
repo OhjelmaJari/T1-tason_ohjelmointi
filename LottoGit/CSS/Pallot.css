@@ -1,0 +1,9 @@
+/* Lottopallot */
+
+.pallerot_piilossa {
+  visibility:hidden;
+}
+
+.pallerot_nakyy {
+  visibility:visible;
+}

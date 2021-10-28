@@ -1,0 +1,129 @@
+@charset "utf-8";
+
+/* kuvat */
+
+.kuva1 {
+  width: 10%;
+  height: auto;
+}
+
+/* Otsikon muotoilu */
+
+header {
+  background-color: #6666ff;
+  padding: 2px;
+  font-family: 'Black Ops One', cursive, Arial;
+  text-align: center;
+}
+
+/* Lomakkeen muotoilu */
+form {
+  padding: 3vw 1.5vw 1.5vw 1.5vw;
+}
+
+/* Riviteksti tavallisella fontilla lihavoitu*/
+.riviteksti {
+  font-weight: bold;
+  font-size: 1.5vw;
+}
+
+/* Virheteksti punaisella ja lihavoituna */
+.virheteksti {
+  font-weight: bold;
+  color: #ff471a;
+  font-size: 1.5vw;
+}
+
+/* Tiedon syöttö ja formin lähetys*/
+
+input {
+  border-style: inset;
+  border-color: #608000;
+  background-color: #ace600;
+}
+
+/* Arvontanappi */
+input[type=button] {
+  border-radius: 8px;
+  /*box-shadow: 0.5vw 1vw #666;*/
+}
+
+/* Lahjoitusnappi */
+
+.button {
+  display: inline-block;
+  padding: 2vw 2vw 2vw 2vw;
+  font-size: 1.5vw;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  /*color: #fff;*/
+  background-color: #ace600;
+  border: none;
+  border-radius: 2vw;
+  /* box-shadow: 0.5vw 1vw #999; */
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  /* box-shadow: 0.5vw 2vw #666; */
+  transform: translateY(4px);
+}
+
+.lahjoitus {
+  font-size: 1.5vw;
+  padding: 0.7vw 0.7vw 0.7vw 0.7vw;
+  position: relative;
+}
+
+a.orig {
+  font-size: 1.5vw;
+  box-sizing: content-box;
+}
+
+/* Lahjoitustaulukon muotoilu */
+
+.Lahjoitustaulu {
+  width: 30%;
+  align: center;
+}
+
+@media only screen and (max-width: 1500px) {
+  .container {
+    background-color: #cd033a;
+  }
+
+  header {
+    font-size: 250%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .container {
+    background-color: #cdb4db;
+  }
+
+  header {
+    font-size: 200%;
+  }
+
+@media only screen and (max-width: 800px) {
+  .container {
+    background-color: #11661a;
+  }
+
+  header {
+    font-size: 130%;
+  }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    background-color: #5219f6;
+  }
+
+  header {
+    font-size: 100%;
+  }
